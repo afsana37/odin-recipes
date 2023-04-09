@@ -1,0 +1,48 @@
+li{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:brown
+    
+}
+
+a{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+   
+}
+
+h1{
+    color:sienna;
+    background-color:bisque;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.description{
+    font-family:cursive;
+    color: darkred;
+}
+
+.ingredients{
+    font-family: cursive;
+
+}
+
+.steps{
+    font-family: cursive;
+}
+
+.details{
+
+    font-family: cursive;
+    color: black;
+
+}
+
+.list li{
+    font-family: cursive;
+    color: black;
+    font-size: medium;
+}
